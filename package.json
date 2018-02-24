@@ -9,7 +9,7 @@
   "author": "Jonas Wagner <jonas@29a.ch>",
   "license": "MIT",
   "dependencies": {
-    "sharp": "^0.17.2",
+    "sharp": "^0.19.1",
     "smartcrop": "^1.1.1"
   },
   "devDependencies": {
