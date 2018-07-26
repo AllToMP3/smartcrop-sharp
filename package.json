@@ -9,7 +9,7 @@
   "author": "Jonas Wagner <jonas@29a.ch>",
   "license": "MIT",
   "dependencies": {
-    "sharp": "github:lovell/sharp#prebuild",
+    "sharp": "^0.20.5",
     "smartcrop": "^1.1.1"
   },
   "devDependencies": {
